@@ -12,4 +12,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [Wang Jiansheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat_.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
