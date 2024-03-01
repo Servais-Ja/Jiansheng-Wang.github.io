@@ -8,8 +8,8 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [College of Water Resources and Architectural Engineering](https://sjxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. LIU Ze](https://sjxy.nwafu.edu.cn/szdwB/gjzcB/zhslx/e86c87ce5d604faa85074fddd1d668d5.htm) from [College of Water Resources and Architectural Engineering](https://sjxy.nwafu.edu.cn/), Northwest A&F University. And I was advised by [Prof. SONG Linqi](https://sites.google.com/site/aisquaredlab/) from [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong, in 2023 summer.
 
 You can find my CV here: [Wang Jiansheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat_.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/Servais-Ja/) / [Wechat](../images/wechat.jpg)
