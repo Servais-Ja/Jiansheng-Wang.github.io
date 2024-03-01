@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Undergraduate in Electrical Engineering and Automation, Northwest A&F University, 2021-
 
 Work experience
 ======
@@ -27,7 +25,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Summer 2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
