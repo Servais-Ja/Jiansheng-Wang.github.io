@@ -21,7 +21,7 @@ repository               : "Servais-Ja/Jiansheng-Wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/photo1.png"
+  avatar           : "/images/photo2.PNG"
   name             : "Wang Jiansheng"
   pronouns         : # example: "she/her"  
   bio              : "A journey of a thousand miles begins with a single step"
