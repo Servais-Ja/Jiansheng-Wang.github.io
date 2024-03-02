@@ -12,4 +12,4 @@ I am very fortunate to be advised by [Prof. LIU Ze](https://sjxy.nwafu.edu.cn/sz
 
 You can find my CV here: [Wang Jiansheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/Servais-Ja/) / [Wechat](/images/editing-talk.png)
+[Email](mailto:wjs20020511@163.com) / [Github](https://github.com/Servais-Ja/) / [Wechat](/images/wechat.jpg)
