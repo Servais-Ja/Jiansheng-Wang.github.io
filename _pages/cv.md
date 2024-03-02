@@ -42,12 +42,15 @@ Academic & research experiences
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Python
+  * C
+  * Assembly language (MCS-51)
+* MATLAB
+* Single chip microcomputer (MCS-51)
+  * Keil µVision
+  * Proteus
+* 
 
 Publications
 ======
