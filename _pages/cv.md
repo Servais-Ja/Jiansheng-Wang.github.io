@@ -11,24 +11,34 @@ redirect_from:
 
 Education
 ======
-* Undergraduate in Electrical Engineering and Automation, Northwest A&F University, 2021-
+* 2021/09-Present
+  * Undergraduate
+  * Electrical Engineering and Automation
+  * Northwest A&F University, China
+* 2022/09-Present
+  * Undergraduate
+  * Artificial Intelligence (Software Engineering)
+  * Northwest A&F University, China
 
-Work experience
+Academic & research experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Protein functional sites identification based on PU-learning method
+  * Fall 2022-Present
+  * Advised by Prof. LIU Ze
+  * Northwest A&F University, Shaanxi, China
+  * In this work, we proposed a PU-learning-based model for predicting plant S-acylation sites. The work was intensively on feature engineering, and the utilize of multiple currently effective methods to evaluate the model trained on PU data (positive and unlabeled data).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* : Research Assistant
+  * Fall 2023-Present
+  * Advised by Prof. Wang Bin
+  * Northwest A&F University, Shaanxi, China
+  * In this work, 
 
-* Summer 2023: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The performance of Large Language Models (LLMs) on the task of rating prediction
+  * Summer 2023-Autumn 2023
+  * Advised by Prof. SONG Linqi
+  * City University of Hong Kong Shenzhen Research Institute, Shenzhen, China
+  * In this work,
   
 Skills
 ======
@@ -44,19 +54,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
