@@ -35,7 +35,7 @@ Academic & research experiences
   * In this work, we analyzed the vibration signal of power transformer. Composite multiscale slope entropy was utilized in our study as the features of vibration signals. And beetle swarm optimization algorithm was applied to improve the performance of our model.
   * The improved stochastic configuration network using beetle swarm optimization algorithm has applied for [software copyright](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/Software_copyright_BSO_SCN.pdf).
 
-* The performance of Large Language Models (LLMs) on the task of rating prediction
+* Large Language Models (LLMs) augmented rating prediction in recommender system
   * Summer 2023-Autumn 2023
   * Advised by Prof. SONG Linqi
   * City University of Hong Kong Shenzhen Research Institute, Shenzhen, China
