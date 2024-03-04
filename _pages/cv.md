@@ -32,7 +32,7 @@ Academic & research experiences
   * Fall 2023-Present
   * Advised by Prof. Wang Bin
   * Northwest A&F University, Shaanxi, China
-  * In this work, we analyzed the vibration signal of power transformer. Composite multiscale slope entropy was uyilized in our work as the features of vibration signals. And beetle swarm optimization algorithm was employed to improve the performance of our model.
+  * In this work, we analyzed the vibration signal of power transformer. Composite multiscale slope entropy was utilized in our study as the features of vibration signals. And beetle swarm optimization algorithm was employed to improve the performance of our model.
 
 * The performance of Large Language Models (LLMs) on the task of rating prediction
   * Summer 2023-Autumn 2023
