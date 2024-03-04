@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * 2021/09-Present
-  * Undergraduate
+  * Undergraduate (Major)
   * Electrical Engineering and Automation
   * Northwest A&F University, China
 * 2022/09-Present
-  * Undergraduate
+  * Undergraduate (Minor)
   * Artificial Intelligence (Software Engineering)
   * Northwest A&F University, China
 
