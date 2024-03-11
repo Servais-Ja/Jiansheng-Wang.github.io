@@ -35,7 +35,7 @@ Academic & research experiences
   * Northwest A&F University, Shaanxi, China
   * In this work, we analyzed the vibration signal. An improved composite multiscale slope entropy was utilized in our study as the features of vibration signals. And beetle swarm optimization algorithm was applied to improve the performance of our model.
   * The improved stochastic configuration network using beetle swarm optimization algorithm has applied for [software copyright](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/Software_copyright_BSO_SCN.pdf).
-  * We have developed a tool for feature extraction based on various entropies, and have been uploaded to my [GitHub](https://github.com/Servais-Ja/Entropy-for-vibration-signal).
+  * We have developed a tool for feature extraction based on multiple entropies, and have been uploaded to my [GitHub](https://github.com/Servais-Ja/Entropy-for-vibration-signal).
 
 * Large Language Models (LLMs) augmented rating prediction in recommender system
   * Summer 2023-Fall 2023
