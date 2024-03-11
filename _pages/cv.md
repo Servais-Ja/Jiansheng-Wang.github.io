@@ -27,12 +27,13 @@ Academic & research experiences
   * Advised by Prof. LIU Ze
   * Northwest A&F University, Shaanxi, China
   * In this work, we proposed a PU-learning-based model for predicting plant S-acylation sites. The work was intensively on feature engineering, and the utilize of multiple currently effective methods to evaluate the model trained on PU data (positive and unlabeled data).
+  * [Manuscript in preparation](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/论文.pdf)/[Supplementary Materials](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/Supplementary_Materials.pdf)
 
-* Power transformer faults identification based on entropy of vibration signal
+* Faults identification based on entropy of vibration signal
   * Fall 2023-Present
   * Advised by Prof. Wang Bin
   * Northwest A&F University, Shaanxi, China
-  * In this work, we analyzed the vibration signal of power transformer. Composite multiscale slope entropy was utilized in our study as the features of vibration signals. And beetle swarm optimization algorithm was applied to improve the performance of our model.
+  * In this work, we analyzed the vibration signal. An improved composite multiscale slope entropy was utilized in our study as the features of vibration signals. And beetle swarm optimization algorithm was applied to improve the performance of our model.
   * The improved stochastic configuration network using beetle swarm optimization algorithm has applied for [software copyright](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/Software_copyright_BSO_SCN.pdf).
 
 * Large Language Models (LLMs) augmented rating prediction in recommender system
