@@ -47,7 +47,7 @@ Academic & research experiences
 Awards
 ======
 * Win third place in RoboWork, 2022
-  * [Recording](https://www.bilibili.com/video/BV1yM41117AA/?spm_id_from=333.999.0.0&vd_source=aa6e950b637c20370b356cea84ae7f15)/[Certificate](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/robowork_third_place.pdf)/[Technical report](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/robowork_report.pdf)
+  * [Recording](https://www.bilibili.com/video/BV1yM41117AA/?spm_id_from=333.999.0.0&vd_source=aa6e950b637c20370b356cea84ae7f15)/[Certificate](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/robowork_third_place.jpg)/[Technical report](https://servais-ja.github.io/Jiansheng-Wang.github.io/files/robowork_report.pdf)
 
 Skills
 ======
